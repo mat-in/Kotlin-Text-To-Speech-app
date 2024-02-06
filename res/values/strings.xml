@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fleesh</string>
+    <string name="Enter_text">Enter text here</string>
+    <string name="speak">Enter</string>
+    <string name="msg">Welcome to Fleesh!</string>
+</resources>
